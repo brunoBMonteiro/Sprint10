@@ -3,6 +3,8 @@
 
 <h2>References</h2>
 
+Link for Reactive Programming (Project Reactor + Spring WebFlux) em uma Arquitetura de Microsserviços: https://medium.com/@marcelomg21/reactive-programming-project-reactor-spring-webflux-em-uma-arquitetura-de-micro-servi%C3%A7os-e4351028ff9a
+
 Link for Reactive Streams: https://www.reactive-streams.org/
 
 Link for Medium: https://medium.com/nstech/programa%C3%A7%C3%A3o-reativa-com-spring-boot-webflux-e-mongodb-chega-de-sofrer-f92fb64517c3
