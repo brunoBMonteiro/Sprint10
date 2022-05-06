@@ -7,6 +7,8 @@ Link for Reactive Programming (Project Reactor + Spring WebFlux) em uma Arquitet
 
 Link for Reactive Streams: https://www.reactive-streams.org/
 
+Link for Reactive Streams Github docs: https://github.com/reactive-streams/reactive-streams-jvm/blob/master/README.md#specification
+
 Link for Medium: https://medium.com/nstech/programa%C3%A7%C3%A3o-reativa-com-spring-boot-webflux-e-mongodb-chega-de-sofrer-f92fb64517c3
 
 Link for Baealdung: https://www.baeldung.com/spring-webflux
