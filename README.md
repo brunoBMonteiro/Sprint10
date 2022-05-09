@@ -28,3 +28,8 @@ Link for youtube channel 2 about WebFlux resume: https://www.youtube.com/watch?v
 Link for Baealdung about BackPressure: https://www.baeldung.com/spring-webflux-backpressure#:~:text=Backpressure%20in%20Reactive%20Streams,receive%20and%20process%20the%20events.
 
 Link for Medium about BackPressure: https://medium.com/tokopedia-engineering/backpressure-in-reactive-streams-in-ios-d1618df9ecaf
+
+Link for marbles Diagram: https://rxmarbles.com/
+
+Link for marbles Diagram: https://medium.com/@jshvarts/read-marble-diagrams-like-a-pro-3d72934d3ef5
+
