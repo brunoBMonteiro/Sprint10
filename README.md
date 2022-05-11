@@ -33,3 +33,5 @@ Link for marbles Diagram: https://rxmarbles.com/
 
 Link for marbles Diagram: https://medium.com/@jshvarts/read-marble-diagrams-like-a-pro-3d72934d3ef5
 
+Link for DZone TomCat vs Netty: https://dzone.com/articles/spring-webflux-eventloop-vs-thread-per-request-mod
+
